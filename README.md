@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Weizheng Jiang</h1>
+<h1 align="center">Hi 👋, I'm Wayne (Weizheng) Jiang</h1>
 <h3 align="center">Ambitious software and data professional with hands-on experience in software development, data engineering, and analytics. Skilled in building ETL/ELT pipelines, front-end applications with RESTful API, and cloud-based AI model training environments, with a strong foundation in Python, SQL, JavaScript (Vue.js/React), and Git-based DevOps workflows.
 
 Experienced in delivering projects involving deep learning, Familiar with full-stack development, GIS analysis, and interactive data visualization dashboards (Power BI & web-based). Comfortable working in agile, cross-functional teams, with a proven ability to solve complex problems and deliver scalable, high-impact solutions.
