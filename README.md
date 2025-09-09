@@ -13,7 +13,7 @@ Currently seeking opportunities in software development, full-stack engineering,
 
 - 🌱 I’m currently improving skill of **React, ASP.NET, Springboot**
 
-- 👨‍💻 All of my projects are available at [https://isbuilding.com](https://isbuilding.com)
+<!-- - 👨‍💻 All of my projects are available at [https://isbuilding.com](https://isbuilding.com) -->
 
 - 📫 How to reach me **jiangweizheng64@gmail.com**
 
