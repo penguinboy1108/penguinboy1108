@@ -17,7 +17,7 @@ Currently seeking opportunities in software development, full-stack engineering,
 
 - 📫 How to reach me **jiangweizheng64@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1B8nCd3XeMVCoCyTz3d-fRgDdFZQAW_va/edit?usp=drive_link&ouid=101947565207986332636&rtpof=true&sd=true](https://docs.google.com/document/d/1B8nCd3XeMVCoCyTz3d-fRgDdFZQAW_va/edit?usp=drive_link&ouid=101947565207986332636&rtpof=true&sd=true)
+- 📄 Know about my experiences [MyCV](https://docs.google.com/document/d/1SiNdTv6KC1n5bCv-gAAn9mob0GJ7EquS/edit?usp=sharing&ouid=101947565207986332636&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
