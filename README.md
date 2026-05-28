@@ -9,7 +9,7 @@ Currently seeking opportunities in software development, full-stack engineering,
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=penguinboy1108" alt="penguinboy1108" /></a> </p>
 
-- 🔭 I’m currently working on [Seek Job Saver](https://github.com/penguinboy1108/seek_job_saver)
+- 🔭 I’m currently working on AP Automation with Agent workflow in Synlait Milk LTD.
 
 - 🌱 I’m currently improving skill of **React, ASP.NET, Springboot**
 
@@ -17,7 +17,7 @@ Currently seeking opportunities in software development, full-stack engineering,
 
 - 📫 How to reach me **jiangweizheng64@gmail.com**
 
-- 📄 Know about my experiences [MyCV](https://docs.google.com/document/d/1SiNdTv6KC1n5bCv-gAAn9mob0GJ7EquS/edit?usp=sharing&ouid=101947565207986332636&rtpof=true&sd=true)
+- 📄 Know about my experiences [MyCV](https://docs.google.com/document/d/1Bgdffsh_RGiq7NTTjwwKm7S8PeC5M5PH/edit?usp=sharing&ouid=101947565207986332636&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
