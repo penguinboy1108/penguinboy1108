@@ -1,42 +1,112 @@
-<h1 align="center">Hi 👋, I'm Wayne (Weizheng) Jiang</h1>
+<h1 align="center">Wayne (Weizheng) Jiang</h1>
 
-<h3 align="center">Software Engineer focused on AI-powered automation, backend systems, and full-stack product delivery.</h3>
-
-I build practical software that connects business workflows, APIs, data, and AI agents into reliable production-ready systems. My recent work focuses on accounts payable automation, LLM-based document extraction and validation, SAP/API integration, backend services, React-based review tools, and cloud-native deployment workflows.
-
-I enjoy turning messy operational processes into maintainable software: designing REST APIs, building automation pipelines, improving developer workflows, and using AI tooling to speed up development, testing, and business decision-making.
-
-Currently based in Christchurch, New Zealand, and open to software engineering, AI engineering, backend/full-stack, platform engineering, and QA automation roles.
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=penguinboy1108&label=Profile%20views&color=0e75b6&style=flat" alt="penguinboy1108" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=penguinboy1108" alt="penguinboy1108" /></a> </p>
-
-### What I'm working on
-
-- 🔭 Building AI-assisted automation workflows for accounts payable, document processing, validation, and SAP integration.
-- 🤖 Exploring LLM agents, RAG, prompt governance, AI-assisted QA, and workflow automation.
-- 🛠️ Improving my skills across React, ASP.NET Core, Azure, Docker, CI/CD, Playwright, and cloud platform engineering.
-- 📫 How to reach me: **jiangweizheng64@gmail.com**
-- 📄 Know about my experiences: [MyCV](https://docs.google.com/document/d/1Bgdffsh_RGiq7NTTjwwKm7S8PeC5M5PH/edit?usp=sharing&ouid=101947565207986332636&rtpof=true&sd=true)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/weizhengjiang/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="weizhengjiang/" height="30" width="40" /></a>
+<p align="center">
+  <b>Software Engineer | AI Automation | Backend & Full-Stack Systems</b>
 </p>
 
-<h3 align="left">Core skills:</h3>
+<p align="center">
+  Christchurch, New Zealand · Building practical AI-powered automation for real business workflows
+</p>
 
-**Languages:** Python, C#, JavaScript, TypeScript, SQL, Java  
-**Backend:** FastAPI, ASP.NET Core, REST APIs, SOAP/OData integration, microservices, API validation  
-**Frontend:** React, Vue.js, HTML/CSS, dashboard and review-tool development  
-**AI & Automation:** Azure OpenAI, Azure AI Foundry, LLM agents, RAG, prompt engineering, document extraction, workflow automation  
-**Cloud & DevOps:** Azure, Docker, GitHub Actions, CI/CD, Bicep, Linux, Git  
-**Databases:** PostgreSQL, SQL Server, MySQL  
-**Testing:** Playwright, Selenium, pytest, API testing, regression testing, E2E testing
+<p align="center">
+  <a href="mailto:jiangweizheng64@gmail.com">Email</a> ·
+  <a href="https://linkedin.com/in/weizhengjiang/">LinkedIn</a> ·
+  <a href="https://github.com/penguinboy1108">GitHub</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=penguinboy1108&show_icons=true&locale=en&layout=compact" alt="penguinboy1108" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=penguinboy1108&show_icons=true&locale=en" alt="penguinboy1108" /></p>
+## About me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=penguinboy1108&" alt="penguinboy1108" /></p>
+I am a software engineer focused on building **AI-powered automation systems**, **backend services**, and **full-stack tools** that connect business workflows, APIs, data, and users.
+
+My recent work has centred on accounts payable automation, LLM-based document extraction and validation, SAP/API integration, React-based correction portals, cloud deployment, and CI/CD. I enjoy turning messy operational processes into maintainable software systems with clear data contracts, resilient APIs, observable workflows, and practical user interfaces.
+
+I am currently open to roles in **software engineering**, **AI engineering**, **backend/full-stack development**, **platform engineering**, and **QA automation / SDET**.
+
+---
+
+## Current focus
+
+- Building agentic workflows for document processing, validation, and business automation
+- Designing backend services with Python, FastAPI, C#, ASP.NET Core, REST APIs, and SQL databases
+- Applying LLMs, RAG, prompt governance, and AI-assisted QA to production-style workflows
+- Improving cloud and platform engineering skills across Azure, Docker, GitHub Actions, CI/CD, and infrastructure-as-code
+- Using Playwright, API testing, and automation tooling to improve delivery quality
+
+---
+
+## Selected work
+
+### AI Accounts Payable Automation Platform
+Production-focused AP automation workflow involving OCR, LLM extraction, validation, PO matching, SAP integration, review tooling, queue-based processing, and operational notifications.
+
+**Highlights:** Python, FastAPI, C#/.NET, React, PostgreSQL, Azure OpenAI, Azure AI Foundry, SAP OData/SOAP, Azure Queue/Blob, GitHub Actions.
+
+### AI Prompt Optimisation & Workflow Governance
+A system for improving prompt quality and supplier-specific extraction behaviour through structured prompt rules, validation feedback, and measurable pipeline outcomes.
+
+**Highlights:** LLM agents, prompt governance, validation rules, supplier profiles, token tracking, structured JSON outputs, human-in-the-loop correction.
+
+### Job Application Management & Automation Tools
+Automation-oriented tools for saving, organising, and tracking job application information, with a focus on practical workflow support and repeatable document generation.
+
+**Repository:** [seek_job_saver](https://github.com/penguinboy1108/seek_job_saver)
+
+### Full-Stack and Data Projects
+Earlier academic and personal projects across full-stack development, data analysis, GIS, visualisation, and machine learning.
+
+**Examples:** [INFO634_project](https://github.com/penguinboy1108/INFO634_project), [cinema-finder-poc](https://github.com/penguinboy1108/cinema-finder-poc), [bill-test](https://github.com/penguinboy1108/bill-test)
+
+---
+
+## Tech stack
+
+### Languages
+Python · C# · JavaScript · TypeScript · SQL · Java
+
+### Backend & APIs
+FastAPI · ASP.NET Core · REST APIs · SOAP/OData · Entity Framework Core · Microservices · API validation
+
+### Frontend
+React · Vue.js · HTML · CSS · Dashboard development · Review/correction portals
+
+### AI & Automation
+Azure OpenAI · Azure AI Foundry · LLM agents · RAG · Prompt engineering · Document extraction · Workflow automation
+
+### Cloud, DevOps & Platform
+Azure · Docker · GitHub Actions · CI/CD · Bicep · Linux · Git · Azure Blob/Queue Storage
+
+### Databases
+PostgreSQL · SQL Server · MySQL
+
+### Testing & Quality
+Playwright · Selenium · pytest · Postman · API testing · Regression testing · E2E testing
+
+---
+
+## Engineering style
+
+I care about software that is practical, maintainable, and useful in production-like environments. My preferred approach is to:
+
+- Keep services small, testable, and observable
+- Define clear contracts between APIs, data models, and UI components
+- Design for failure with retries, logging, validation, and manual review paths
+- Use AI where it improves workflow reliability and speed, not just as a demo layer
+- Build tools that reduce manual effort for real users
+
+---
+
+## GitHub stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=penguinboy1108&show_icons=true&locale=en&layout=compact" alt="Top languages" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=penguinboy1108&show_icons=true&locale=en" alt="GitHub stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=penguinboy1108&" alt="GitHub streak" />
+</p>
