@@ -1,7 +1,7 @@
 <h1 align="center">Wayne (Weizheng) Jiang</h1>
 
 <p align="center">
-  <b>Software Engineer | AI Automation | Backend & Full-Stack Systems</b>
+  <b>AI Software Engineer | AI Automation | Backend & Full-Stack Systems</b>
 </p>
 
 <p align="center">
