@@ -1,11 +1,11 @@
 <h1 align="center">Wayne (Weizheng) Jiang</h1>
 
 <p align="center">
-  <b>AI Software Engineer | AI Automation | Backend & Full-Stack Systems</b>
+  <b>Automation Engineer | AI Engineering | Backend & Cloud Systems</b>
 </p>
 
 <p align="center">
-  Christchurch, New Zealand · Building practical AI-powered automation for real business workflows
+  Christchurch, New Zealand · Building practical automation and AI-enabled systems for real business workflows
 </p>
 
 <p align="center">
@@ -18,45 +18,53 @@
 
 ## About me
 
-I am a software engineer focused on building **AI-powered automation systems**, **backend services**, and **full-stack tools** that connect business workflows, APIs, data, and users.
+I am an **Automation Engineer** focused on building reliable business automation, AI-enabled workflows, backend services, and integration-heavy systems.
 
-My recent work has centred on accounts payable automation, LLM-based document extraction and validation, SAP/API integration, React-based correction portals, cloud deployment, and CI/CD. I enjoy turning messy operational processes into maintainable software systems with clear data contracts, resilient APIs, observable workflows, and practical user interfaces.
+My work spans **Azure-based workflow automation**, APIs, data integration, Microsoft 365 platforms, backend engineering, and applied AI. I enjoy taking repetitive or fragmented operational processes and turning them into maintainable systems with clear contracts, observable execution, resilient failure handling, and measurable business value.
 
-I am currently open to roles in **software engineering**, **AI engineering**, **backend/full-stack development**, **platform engineering**, and **QA automation / SDET**.
+Before moving further into enterprise automation, I worked on an AI-powered accounts payable platform covering document extraction, validation, SAP integration, human review, cloud deployment, and CI/CD. That experience continues to shape how I approach AI systems today: AI should be bounded, testable, observable, and integrated into a well-engineered workflow rather than added as a demo layer.
 
 ---
 
 ## Current focus
 
-- Building agentic workflows for document processing, validation, and business automation
-- Designing backend services with Python, FastAPI, C#, ASP.NET Core, REST APIs, and SQL databases
-- Applying LLMs, RAG, prompt governance, and AI-assisted QA to production-style workflows
-- Improving cloud and platform engineering skills across Azure, Docker, GitHub Actions, CI/CD, and infrastructure-as-code
-- Using Playwright, API testing, and automation tooling to improve delivery quality
+- Building and modernising enterprise workflows with **Azure Logic Apps**, APIs, data services, and Microsoft 365 integrations
+- Applying **AI-assisted automation** where it can reduce manual work while keeping validation, review, and failure paths explicit
+- Developing practical approaches to **AI evaluation, governance, observability, and safe workflow design**
+- Designing backend and integration services with **Python, C#, ASP.NET Core, REST APIs, SQL, and event-driven patterns**
+- Improving delivery quality through **CI/CD, infrastructure-as-code, automated testing, logging, and operational monitoring**
+- Studying production AI engineering patterns beyond individual vendors and frameworks
 
 ---
 
 ## Selected work
 
-### AI Accounts Payable Automation Platform
-Production-focused AP automation workflow involving OCR, LLM extraction, validation, PO matching, SAP integration, review tooling, queue-based processing, and operational notifications.
+### AI Engineering Playbook
+A continuously maintained engineering knowledge base for production-oriented AI systems. It focuses on reusable implementation patterns, evaluation, agent architecture, security, SDK lifecycle control, workflow design, and evidence-backed engineering practices.
 
-**Highlights:** Python, FastAPI, C#/.NET, React, PostgreSQL, Azure OpenAI, Azure AI Foundry, SAP OData/SOAP, Azure Queue/Blob, GitHub Actions.
+**Repository:** [AI_Engineering_Playbook](https://github.com/penguinboy1108/AI_Engineering_Playbook)
+
+**Focus:** AI engineering patterns · agent evaluation · workflow architecture · security · production reliability · repository deep dives
+
+### AI Accounts Payable Automation Platform
+A production-focused AP automation workflow involving OCR, LLM extraction, validation, PO matching, SAP integration, review tooling, queue-based processing, and operational notifications.
+
+**Highlights:** Python · FastAPI · C#/.NET · React · PostgreSQL · Azure OpenAI · Azure AI Foundry · SAP OData/SOAP · Azure Queue/Blob · GitHub Actions
 
 ### AI Prompt Optimisation & Workflow Governance
-A system for improving prompt quality and supplier-specific extraction behaviour through structured prompt rules, validation feedback, and measurable pipeline outcomes.
+Work on improving prompt quality and supplier-specific extraction behaviour through structured prompt rules, validation feedback, measurable pipeline outcomes, and human-in-the-loop correction.
 
-**Highlights:** LLM agents, prompt governance, validation rules, supplier profiles, token tracking, structured JSON outputs, human-in-the-loop correction.
+**Highlights:** LLM agents · prompt governance · validation rules · structured outputs · token tracking · evaluation · human review
 
-### Job Application Management & Automation Tools
-Automation-oriented tools for saving, organising, and tracking job application information, with a focus on practical workflow support and repeatable document generation.
+### Claude Code Analysis
+A practical exploration of AI-assisted software engineering workflows and coding-agent behaviour, with an emphasis on understanding how modern coding agents structure context, tools, and execution.
 
-**Repository:** [seek_job_saver](https://github.com/penguinboy1108/seek_job_saver)
+**Repository:** [claude-code-analysis](https://github.com/penguinboy1108/claude-code-analysis)
 
 ### Full-Stack and Data Projects
 Earlier academic and personal projects across full-stack development, data analysis, GIS, visualisation, and machine learning.
 
-**Examples:** [INFO634_project](https://github.com/penguinboy1108/INFO634_project), [cinema-finder-poc](https://github.com/penguinboy1108/cinema-finder-poc), [bill-test](https://github.com/penguinboy1108/bill-test)
+**Examples:** [INFO634_project](https://github.com/penguinboy1108/INFO634_project) · [cinema-finder-poc](https://github.com/penguinboy1108/cinema-finder-poc) · [bill-test](https://github.com/penguinboy1108/bill-test)
 
 ---
 
@@ -65,35 +73,41 @@ Earlier academic and personal projects across full-stack development, data analy
 ### Languages
 Python · C# · JavaScript · TypeScript · SQL · Java
 
+### Automation & Integration
+Azure Logic Apps · Power Automate · REST APIs · SOAP/OData · Microsoft 365 · SharePoint · workflow orchestration · event-driven integration
+
 ### Backend & APIs
-FastAPI · ASP.NET Core · REST APIs · SOAP/OData · Entity Framework Core · Microservices · API validation
+FastAPI · ASP.NET Core · Entity Framework Core · API validation · microservices · background processing
 
 ### Frontend
-React · Vue.js · HTML · CSS · Dashboard development · Review/correction portals
+React · Vue.js · HTML · CSS · dashboards · review/correction portals
 
-### AI & Automation
-Azure OpenAI · Azure AI Foundry · LLM agents · RAG · Prompt engineering · Document extraction · Workflow automation
+### AI Engineering
+Azure OpenAI · Azure AI Foundry · LLM agents · Semantic Kernel · RAG · prompt engineering · structured outputs · document extraction · agent evaluation · human-in-the-loop workflows
 
 ### Cloud, DevOps & Platform
-Azure · Docker · GitHub Actions · CI/CD · Bicep · Linux · Git · Azure Blob/Queue Storage
+Azure · Docker · GitHub Actions · CI/CD · Bicep · Linux · Git · Azure Blob/Queue Storage · observability
 
 ### Databases
 PostgreSQL · SQL Server · MySQL
 
 ### Testing & Quality
-Playwright · Selenium · pytest · Postman · API testing · Regression testing · E2E testing
+Playwright · Selenium · pytest · Postman · API testing · regression testing · E2E testing
 
 ---
 
-## Engineering style
+## Engineering principles
 
-I care about software that is practical, maintainable, and useful in production-like environments. My preferred approach is to:
+I care about software and automation that are practical, maintainable, and safe to operate. My preferred approach is to:
 
-- Keep services small, testable, and observable
-- Define clear contracts between APIs, data models, and UI components
-- Design for failure with retries, logging, validation, and manual review paths
-- Use AI where it improves workflow reliability and speed, not just as a demo layer
-- Build tools that reduce manual effort for real users
+- Use the simplest architecture that reliably solves the workflow
+- Keep services, integrations, and automation components observable and testable
+- Define clear contracts between APIs, data models, workflows, and user-facing systems
+- Design for failure with retries, idempotency, validation, logging, and manual recovery paths
+- Keep AI behaviour bounded by explicit tools, permissions, schemas, and evaluation
+- Prefer deterministic checks before LLM-based judgement where possible
+- Treat prompts, models, SDK versions, and workflow configuration as versioned engineering dependencies
+- Measure automation by the manual effort, risk, and operational friction it actually removes
 
 ---
 
